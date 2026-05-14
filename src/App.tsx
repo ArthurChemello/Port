@@ -1,7 +1,7 @@
-import Threefarm from "./Threefarm";
+import ThreePortfolio from "./ThreePortfolio";
 
 function App() {
-  return <Threefarm/>;
+  return <ThreePortfolio />;
 }
 
 export default App;
