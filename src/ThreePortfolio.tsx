@@ -92,3 +92,6 @@
     // Skeletal Hand by Jeremy Swan [CC-BY] via Poly Pizza
     // Table by Hunter Paramore [CC-BY] via Poly Pizza
     //Window Bars by Quaterniu
+//rm -rf node_modules package-lock.json
+// npm i
+// npm run dev
